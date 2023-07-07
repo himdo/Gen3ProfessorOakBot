@@ -1,0 +1,3 @@
+-- this will only work if the emulator has already loaded a rom
+-- emu:loadFile("C://Projects//gba_botting//Gen3OakBot//rom.gba")
+-- emu:reset()
